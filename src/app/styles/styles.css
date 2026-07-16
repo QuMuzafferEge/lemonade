@@ -7965,6 +7965,10 @@ input::-webkit-calendar-picker-indicator {
     padding: 8px;
 }
 
+.decision-tree-modal {
+    max-width: 640px;
+}
+
 .decision-tree-svg {
     display: block;
 }
